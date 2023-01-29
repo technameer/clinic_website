@@ -1,0 +1,35 @@
+.navbar{
+    min-height: 76px;
+  }
+  .navbar-nav{
+    margin-top: 10px;
+  }
+  .navbar-inverse .navbar-nav>li>a{
+    color: white;
+    font-size: 20px;
+    transition: 0.5s;
+  }
+  .navbar-inverse .navbar-nav>li>a:hover{
+    color: blue;
+  }
+  .card{
+      border: 4px blue solid;
+      border-radius: 5px;
+      border-bottom: 10px blue solid;
+      border-bottom-left-radius:8px ;
+      border-bottom-right-radius:8px ;
+
+  }
+  .col-sm-4{
+      margin-bottom: 15px;
+  }
+  .card-img-top{
+    width: 100%;
+    height: auto;
+  }
+  .card-title{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-weight: 600;
+  }
